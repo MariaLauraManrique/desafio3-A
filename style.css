@@ -14,11 +14,45 @@ h1{font-family:Impact, Charcoal, sans-serif;
   text-align: center;
 }
 h2{font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
-  font-size: 38px;
-  color:rgb(188,189,191);
+  font-size: 42px;
   font-style: oblique;
 }
 p{font-family: Arial, Gadget, sans-serif;
   font-size: 18px;
   color:rgb(137,150,162) ;
 }
+.borde-1{
+  border: 5px solid rgb(161,193,203);
+}
+.borde-2{
+  border: 5px solid rgb(161,193,203);
+}
+.borde-3{
+  border: 5px solid rgb(188,189,191);
+}
+.borde-4{
+  border: 5px solid rgb(141,148,161);
+}
+.borde-5{
+  border: 5px solid rgb(178,178,170);
+}
+#margen{
+  margin-left: 50px;
+}
+
+.color-1{
+  color: rgb(230,203,191);
+}
+.color-2{
+  color: rgb(161,193,203);
+}
+.color-3{
+  color:rgb(188,189,191);
+}
+.color-4{
+  color: rgb(141,148,156);
+}
+.color-5{
+  color:rgb(178,178,170);  
+}
+
